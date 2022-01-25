@@ -5,7 +5,7 @@
 
 | Topic | Know | Want to Know | Learned |
 | ------| ------- | ------ | ------- |
-| Git | _ | _ | _ |
+| Git | dfgdfagdfh | _ | _ |
 | GitHub | _ | _ | _ |
 | Terminal | _ | _ | _ |
 | IDE | _ | _ | _ |
