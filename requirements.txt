@@ -1,0 +1,12 @@
+jupyter-book 
+matplotlib
+numpy
+pyppeteer
+pandas
+lxml
+seaborn
+xlrd
+sklearn
+keras
+sphinx_fontawesome
+sphinx_panels
