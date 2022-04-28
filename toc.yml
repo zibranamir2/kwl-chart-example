@@ -1,0 +1,6 @@
+format: jb-book
+root: chart
+parts:
+  - caption: Prepare for class
+    chapters:
+    - file: terminal
