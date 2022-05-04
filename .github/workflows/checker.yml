@@ -28,5 +28,9 @@ jobs:
          fi
         done
         
-    - name: Counter 
+    - name: Counter Prepare only
       run: kwlfilecount
+      
+    
+    - name: Counter More Practice and prepare
+      run: kwlfilecount --practice
