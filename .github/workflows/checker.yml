@@ -14,10 +14,14 @@ jobs:
       with:
         python-version: 3.8
     
-    - name: Install dependencies
+    - name: Install checker 
       run: |
         pip install git+https://github.com/introcompsys/courseutils@main
-        for file in $(kwlfilechecker)
+         
+        
+    - name: Run loop 
+      run: |    
+        for file in $(kwlfilecheck)
         do
          if ! test -f $file; then
           echo $file
