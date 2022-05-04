@@ -19,7 +19,7 @@ jobs:
         pip install git+https://github.com/introcompsys/courseutils@main
          
         
-    - name: Run loop 
+    - name: Bash version 
       run: |    
         for file in $(kwlfilecheck)
         do
@@ -27,3 +27,6 @@ jobs:
           echo $file
          fi
         done
+        
+    - name: Counter 
+      run: kwlfilecount
