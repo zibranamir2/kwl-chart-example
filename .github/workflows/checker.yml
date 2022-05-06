@@ -33,3 +33,8 @@ jobs:
     
     - name: Counter More Practice and prepare
       run: kwlfilecount --practice
+      
+      
+        
+    - name: Counter  for extra files (eg deeper)
+      run: kwlextracount
