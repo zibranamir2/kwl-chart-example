@@ -4,9 +4,9 @@ Zibran Amir's KWL Chart
 
 | Topic | Know | Want to Know | Learned |
 | ------| ------- | ------ | ------- |
-| Git | It is a thing in CS, where there's a system for tracking changes in files | What actually is a Git? Why is it useful for CS? Like what is the purpose of it? |  Git is an instance of both a file system and a version control system. |
-| GitHub | I always thought of Github as a website where programmers "store" their CS projects, and can share with others. Sort of like Garageband for CS. | Why is Github so important to CS? | Github is essentially a Internet hosting site for CS programmers where people can upload and share their codes and projects of various softwares. It is free, and has many features that makes it easier for CS. |
-| Terminal | _ | _ | _ |
+| Git | _ | _ | _ |
+| GitHub | _ | . |
+| Terminal | . |  | _ |
 | IDE | _ | _ | _ |
 | text editors | _ | _ | _ |
 |file system | _ | _ |_ |
