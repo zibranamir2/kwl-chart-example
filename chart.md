@@ -4,7 +4,7 @@ Zibran Amir's KWL Chart
 
 | Topic | Know | Want to Know | Learned |
 | ------| ------- | ------ | ------- |
-| Git | I honestly never heard of Git before taking this class, except for 'GitHub'. | So what exactly is Git? Why is it useful for CS? | _ |
+| Git | I honestly never heard of Git before taking this class, except for 'GitHub'. | So what exactly is Git? Why is it useful for CS? | To put it simply, git is a file system that has a version control user. The most important parts of it are objects, refs, HEAD, and index. |
 | GitHub | I see it as a hosting site where programmers post their codes and projects, sort of like a SoundCloud for CS. | Why is GitHub so essential to CS? |
 | Terminal | From C++ and python, I knew it as a place where you run command lines and execute your codes. |  | _ |
 | IDE | It's a space where you actually write all the codes for a project/software. | _ | _ |
