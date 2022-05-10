@@ -4,7 +4,7 @@ Zibran Amir's KWL Chart
 
 | Topic | Know | Want to Know | Learned |
 | ------| ------- | ------ | ------- |
-| Git | _ | _ | _ |
+| Git | jjj | _ | _ |
 | GitHub | _ | _ | _ |
 | Terminal | _ | _ | _ |
 | IDE | _ | _ | _ |
