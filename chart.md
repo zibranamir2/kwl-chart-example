@@ -4,7 +4,7 @@ Zibran Amir's KWL Chart
 
 | Topic | Know | Want to Know | Learned |
 | ------| ------- | ------ | ------- |
-| Git | It is a thing in CS, where there's a system for tracking changes in files | What actually is a Git? Why is it useful for CS? Like what is the purpose of it? | _ |
+| Git | It is a thing in CS, where there's a system for tracking changes in files | - What actually is a Git? - Why is it useful for CS? Like what is the purpose of it? | _ |
 | GitHub | _ | _ | _ |
 | Terminal | _ | _ | _ |
 | IDE | _ | _ | _ |
